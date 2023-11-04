@@ -5,6 +5,5 @@ public class HelloWorld {
        for (int i =1; i <11; i++) {
            System.out.println("Autorska zmiana nr" + i);
        }
-        System.out.println("Kolejne zmiany w zadaniu");
     }
 }
