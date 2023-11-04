@@ -1,8 +1,12 @@
 public class MyName {
     public static void main(String[] args) {
-        String name = "Marcin";
+        String name = "Wiktor";
 
-        System.out.println("Cześć, mam na imię " + name + ".");
+        for(int i = 0; i < 5; i++){
+            System.out.println("Cześć, mam na imię " + name + ".");
+        }
+
+
     }
 }
 
