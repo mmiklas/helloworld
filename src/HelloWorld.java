@@ -4,7 +4,7 @@ public class HelloWorld {
         int nameLength = name.length();
 
         for(int i=0; i<nameLength; i++) {
-            System.out.println("Hello World! (" + ")");
+            System.out.println("Hello World! (" + name.toCharArray()[i] + ")");
         }
     }
 }
