@@ -3,9 +3,7 @@ public class MyName {
         String name = "Marcin";
         String studentName = "Filip";
         System.out.println("Cześć, mam na imię " + name + ".");
-
-        System.out.println("Witam, a ja " + studentName + ".");
-
+        System.out.println("Cześć, a ja " + studentName + ".");
     }
 }
 
