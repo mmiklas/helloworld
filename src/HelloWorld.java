@@ -1,5 +1,10 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        String name = "Sylwia";
+        int nameLength = name.length();
+
+        for(int i=0; i<nameLength; i++) {
+            System.out.println("Hello World! (" + name.toCharArray()[i] + ")");
+        }
     }
 }
