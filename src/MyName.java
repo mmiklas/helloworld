@@ -4,7 +4,8 @@ public class MyName {
         String studentName = "Filip";
         System.out.println("Cześć, mam na imię " + name + ".");
 
-        System.out.println("Cześć, a ja " + studentName + ".");
+        System.out.println("Witam, a ja " + studentName + ".");
+
     }
 }
 
