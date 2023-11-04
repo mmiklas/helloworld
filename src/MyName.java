@@ -6,7 +6,6 @@ public class MyName {
 
         System.out.println("Cześć, mam na imię " + name + ".");
         System.out.println("witaj");
-        System.out.println("witaj znowu");
     }
 }
 
